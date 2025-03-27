@@ -1,4 +1,4 @@
-Sitemap: https://lwflouisa.nekoweb.org/
+Sitemap: https://lwflouisa.github.io/GoodnightAuburnHairVN
 
 User-agent: *
 Disallow: /
