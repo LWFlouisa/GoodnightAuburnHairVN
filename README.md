@@ -1,7 +1,7 @@
 # GoodnightAuburnHairVN
 A webpage for brainstorming the Goodnight Auburn Hair visual novel.
 
-## Genre
+## Memorialist Science Fiction
 This project aims to combine aspects of Cyberpunk with Steampunk.
 
 -- Preserves cultural identity through technology.<br />
