@@ -2,9 +2,4 @@
 A webpage for brainstorming the Goodnight Auburn Hair visual novel.
 
 ## Memorialist Science Fiction
-This project aims to combine aspects of Cyberpunk with Steampunk.
-
--- Preserves cultural identity through technology.<br />
--- Intigrating historical elements with modern technology.<br />
--- Individual memories and continuity across different substrates like porcelain dolls.<br />
--- Blends psychological horror and sociological science fiction.
+Fiction that focuses on preserving cultural identity by technological means, integrating historical elements with future technology emphasizing personality continuity across physical and digital forms / lifetimes, with emphasize on psychological horror and social sciences.
